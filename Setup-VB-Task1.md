@@ -33,3 +33,26 @@ To fix this, you need to:
 **Reboot**
 
  Complete the installation. If a restart is required, please reboot your computer before launching VirtualBox. This is necessary to finalize the installation of the new system drivers.
+
+**Enable Virtualization**
+
+The specific name for the virtualization option can vary depending on the motherboard manufacturer and CPU brand, but here are the most common names you'll find in the BIOS/UEFI settings:
+
+* **For Intel CPUs:**
+    * **Intel Virtualization Technology**
+    * **Intel VT-x**
+    * **Virtualization Technology (VTx)**
+* **For AMD CPUs:**
+    * **SVM Mode** (Secure Virtual Machine Mode)
+    * **AMD-V**
+    * **Virtualization**
+ 
+ <img width="541" height="245" alt="image" src="https://github.com/user-attachments/assets/e1748e41-658c-46df-a720-cf7f2815e09b" />
+
+
+### How to Find and Enable the Option
+
+1.  **Enter the BIOS/UEFI:** Restart your computer and press the designated key (commonly F2, F10, F12, or Del) to enter the BIOS or UEFI setup.
+2.  **Locate the Setting:** Navigate to the **Advanced**, **CPU Configuration**, or a similar-sounding menu.
+3.  **Enable:** Find the setting with one of the names listed above and change its value from `Disabled` to `Enabled`.
+4.  **Save and Exit:** Save your changes and exit the BIOS/UEFI. The computer will restart, and the feature will be active.
