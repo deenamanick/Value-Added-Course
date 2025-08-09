@@ -2,7 +2,7 @@
 
 ---
 
-## 🧪 **Linux Hands-On Exercise for Students**
+## 🧪 **Linux Hands-On Exercise**
 
 ### 🔹 **Step-by-Step Task Flow**
 
