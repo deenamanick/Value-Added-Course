@@ -29,3 +29,7 @@ To fix this, you need to:
 **Install** : Run the installer.
 
 **Rerun**: Start the VirtualBox installation again. It should now proceed without the error.
+
+**Reboot**
+
+ Complete the installation. If a restart is required, please reboot your computer before launching VirtualBox. This is necessary to finalize the installation of the new system drivers.
