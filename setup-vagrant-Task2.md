@@ -95,24 +95,7 @@ vagrant destroy
 
 ---
 
-### **Extra Tip for Class Demo**
 
-* Use `ubuntu/focal64` (Ubuntu 20.04) or `centos/8` for variety.
-* Edit `Vagrantfile` to change RAM, CPUs:
-
-```ruby
-config.vm.provider "virtualbox" do |vb|
-  vb.memory = "2048"
-  vb.cpus = 2
-end
-```
-
----
-
-If you want, I can prepare a **ready-to-use Vagrantfile** with:
-
-* **Ubuntu 22.04**
-* Pre-installed tools (Git, Curl, Docker)
 * 2GB RAM, 2 CPUs
 
 That way your students can run `vagrant up` and have a full environment instantly.
