@@ -35,7 +35,7 @@ git --version
 3. Move the `terraform.exe` file to a folder (e.g., `C:\terraform`).
 4. Add that folder to your **PATH**:
 
-   * Press `Win + R`, search for **Environment Variables** or sysdm.cpl, and open it.
+   * Press `Win + R`, and type **sysdm.cpl**, and look for **Advanced setting**, click **Environment Variable**. or search for **Environment Variables** in windows search, and open it.
    * Edit **System Variables** → Find `Path` → Click **Edit** → Add `C:\terraform`.
 6. Verify installation:
 
