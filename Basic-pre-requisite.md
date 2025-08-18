@@ -36,6 +36,11 @@ git --version
 4. Add that folder to your **PATH**:
 
    * Press `Win + R`, and type **sysdm.cpl**, and look for **Advanced setting**, click **Environment Variable**. or search for **Environment Variables** in windows search, and open it.
+   * 
+    <img width="398" height="201" alt="image" src="https://github.com/user-attachments/assets/373df2c8-cd37-4fdc-9cb4-5d9b08f0ffd9" />
+
+   <img width="413" height="464" alt="image" src="https://github.com/user-attachments/assets/b1bb21a4-1de1-4876-ad90-7ce6af278465" />
+  * 
    * Edit **System Variables** → Find `Path` → Click **Edit** → Add `C:\terraform`.
 6. Verify installation:
 
