@@ -94,9 +94,3 @@ vagrant destroy
 ```
 
 ---
-
-
-* 2GB RAM, 2 CPUs
-
-That way your students can run `vagrant up` and have a full environment instantly.
-Do you want me to create that?
