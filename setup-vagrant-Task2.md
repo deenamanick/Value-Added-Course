@@ -34,7 +34,7 @@ cd vagrant_demo
 * Example: Ubuntu 22.04 LTS
 
 ```bash
-vagrant init ubuntu/jammy64
+vagrant init bento/ubuntu-22.04
 ```
 
 This creates a `Vagrantfile` in your folder.
