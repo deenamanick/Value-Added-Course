@@ -20,6 +20,8 @@ Open the GitBash from search window
 ```bash
 mkdir my_practice
 ```
+<img width="595" height="400" alt="image" src="https://github.com/user-attachments/assets/e213684e-3f6e-4350-83a4-ebf9d09ef2e3" />
+
 
 This creates a folder named `my_practice`.
 
@@ -41,6 +43,9 @@ You're now inside the `my_practice` folder.
 touch notes.txt
 ```
 
+<img width="588" height="390" alt="image" src="https://github.com/user-attachments/assets/5edcff22-7376-490c-9659-f9f1c1f76b17" />
+
+
 This creates an empty file called `notes.txt`.
 
 ---
@@ -60,6 +65,8 @@ Creates a new folder named `projects` inside `my_practice`.
 ```bash
 mv notes.txt projects/
 ```
+<img width="604" height="374" alt="image" src="https://github.com/user-attachments/assets/58e4271e-7807-4ae5-ad64-698eacca4263" />
+
 
 Moves `notes.txt` into the `projects` folder.
 
@@ -70,6 +77,8 @@ Moves `notes.txt` into the `projects` folder.
 ```bash
 cd projects
 ```
+<img width="601" height="383" alt="image" src="https://github.com/user-attachments/assets/29bdb65c-e2f8-46d8-ae11-f10b777c0ad7" />
+
 
 ---
 
@@ -78,6 +87,7 @@ cd projects
 ```bash
 echo "This is my first Linux file." > notes.txt
 ```
+<img width="614" height="96" alt="image" src="https://github.com/user-attachments/assets/b4666fdf-2603-49aa-896c-d5c9912d2813" />
 
 Adds content to the file.
 
