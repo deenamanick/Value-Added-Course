@@ -39,6 +39,7 @@ if you dont see the version of vagrant, close gitbash window and try the same co
 mkdir vagrant_demo
 cd vagrant_demo
 ```
+<img width="601" height="391" alt="image" src="https://github.com/user-attachments/assets/593ed296-b2e2-436f-bf7b-4c5aede9c617" />
 
 ---
 
