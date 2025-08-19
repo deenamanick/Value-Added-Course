@@ -25,6 +25,11 @@ You should see something like:
 ```
 Vagrant 2.x.x
 ```
+if you dont see the version of vagrant, close gitbash window and try the same command.
+
+<img width="593" height="407" alt="image" src="https://github.com/user-attachments/assets/a41c075b-bc46-4b7f-a822-f2b1f85ca62f" />
+
+<img width="598" height="397" alt="image" src="https://github.com/user-attachments/assets/c6174c9d-f8e5-4576-9c10-2294e05c53dd" />
 
 ---
 
