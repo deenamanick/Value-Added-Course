@@ -23,7 +23,7 @@ To fix this, you need to:
 
 **Download** : Get the redistributable package directly from the official Microsoft website. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-<img width="910" height="518" alt="image" src="https://github.com/user-attachments/assets/2be31d56-3305-4919-9428-cbc20e63e6fd" />
+<img width="935" height="162" alt="image" src="https://github.com/user-attachments/assets/48260091-02f9-4a84-af47-1e96e5f315f6" />
 
 
 **Install** : Run the installer.
