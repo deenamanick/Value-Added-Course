@@ -3,7 +3,7 @@
 
 ### **1. Download and Install VirtualBox**
 
-* Go to: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+* Go to: https://download.virtualbox.org/virtualbox/7.1.0/
 * Choose your operating system (Windows, macOS, or Linux).
 * Download and install VirtualBox using the installer.
 
@@ -11,9 +11,14 @@
 
 #### Click on Windows Hosts
 
-<img width="1765" height="908" alt="image" src="https://github.com/user-attachments/assets/79029a59-0303-46c2-98c7-e49a0e27597a" />
+<img width="1212" height="624" alt="image" src="https://github.com/user-attachments/assets/e44e2a83-d767-4ec0-8af0-f70b611d02cc" />
+
+
 
 After the download is complete, go to the downloaded folder, then click and start the installation.
+
+<img width="503" height="395" alt="image" src="https://github.com/user-attachments/assets/a99dc0e6-15da-4a8c-87bc-c5976a3eb967" />
+
 
 #### Note
 
