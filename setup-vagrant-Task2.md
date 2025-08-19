@@ -5,8 +5,13 @@
 ### **1. Install Vagrant**
 
 * Download from: [https://developer.hashicorp.com/vagrant/downloads](https://developer.hashicorp.com/vagrant/downloads)
+* select windows and click on AMD64
+
+
+* <img width="598" height="200" alt="image" src="https://github.com/user-attachments/assets/2d958be5-14ad-4355-b0a0-e96c9dbd3265" />
 * Install it like any normal app.
 * **Check installation** in terminal or command prompt:
+
 
 ```bash
 vagrant --version
