@@ -87,6 +87,7 @@ vagrant ssh
 ```bash
 lsb_release -a
 ```
+<img width="823" height="596" alt="image" src="https://github.com/user-attachments/assets/4d9a2c02-df3e-473c-a5cc-3e0adceb9241" />
 
 to confirm the OS version.
 
