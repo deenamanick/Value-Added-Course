@@ -17,7 +17,6 @@ Verify installation:
 
 ```bash
 vagrant --version
-virtualbox --help | head -n 1
 ```
 
 ---
