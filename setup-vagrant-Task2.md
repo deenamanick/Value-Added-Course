@@ -67,6 +67,9 @@ vagrant up
 
   * Download the **box** (pre-built VM image) from HashiCorp.
   * Create and start it in VirtualBox automatically.
+ 
+    <img width="1044" height="576" alt="image" src="https://github.com/user-attachments/assets/18231479-d127-49a1-b3b2-c840a4140444" />
+
 
 ---
 
@@ -75,6 +78,8 @@ vagrant up
 ```bash
 vagrant ssh
 ```
+<img width="585" height="396" alt="image" src="https://github.com/user-attachments/assets/9db4e839-5c82-4828-bac5-9d5261a0e6eb" />
+
 
 * You’re now **inside** the VM’s terminal.
 * Run:
@@ -103,10 +108,5 @@ exit
 vagrant halt
 ```
 
-* Destroy the VM (remove completely):
-
-```bash
-vagrant destroy
-```
 
 ---
