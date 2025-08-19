@@ -10,6 +10,9 @@
 
 * <img width="598" height="200" alt="image" src="https://github.com/user-attachments/assets/2d958be5-14ad-4355-b0a0-e96c9dbd3265" />
 * Install it like any normal app.
+
+* <img width="493" height="388" alt="image" src="https://github.com/user-attachments/assets/fbdd528c-26b7-4603-8686-5277d2e304db" />
+
 * **Check installation** in terminal or command prompt:
 
 
