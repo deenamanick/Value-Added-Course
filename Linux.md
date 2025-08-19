@@ -10,7 +10,8 @@
 
 ### ✅ **Step 1: Open the Terminal**
 
-No command needed — just open your terminal emulator (e.g., GNOME Terminal, Konsole, or terminal in your VM).
+Open the GitBash from search window
+
 
 ---
 
