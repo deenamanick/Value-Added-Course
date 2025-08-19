@@ -50,8 +50,10 @@ cd vagrant_demo
 ```bash
 vagrant init bento/ubuntu-22.04
 ```
+<img width="598" height="381" alt="image" src="https://github.com/user-attachments/assets/4afb302c-266f-4799-a7db-16b0f39815b5" />
 
 This creates a `Vagrantfile` in your folder.
+
 
 ---
 
