@@ -107,6 +107,7 @@ docker image prune -a
 ```bash
 docker system prune -a
 ```
+<img width="465" height="190" alt="image" src="https://github.com/user-attachments/assets/89b2262d-26a2-4813-8ee1-9c426f9bf5aa" />
 
 ---
 
