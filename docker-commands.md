@@ -73,6 +73,7 @@ docker start <container_id>
 ```bash
 docker rm <container_id>
 ```
+<img width="333" height="31" alt="image" src="https://github.com/user-attachments/assets/e853dc2d-705b-48e2-8f89-ffe9a1aa2a57" />
 
 ---
 
