@@ -48,6 +48,7 @@ docker run -it ubuntu /bin/bash
 ```bash
 docker run -d --name mynginx nginx
 ```
+<img width="417" height="64" alt="image" src="https://github.com/user-attachments/assets/788ba84e-36d9-4ca9-8554-745c84bfe266" />
 
 ```bash
 docker ps
