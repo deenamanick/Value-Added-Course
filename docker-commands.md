@@ -43,6 +43,7 @@ docker rmi ubuntu
 ```bash
 docker run -it ubuntu /bin/bash
 ```
+<img width="567" height="105" alt="image" src="https://github.com/user-attachments/assets/da4ce395-98cc-4d60-bca0-3bad29d9de41" />
 
 ```bash
 docker run -d --name mynginx nginx
