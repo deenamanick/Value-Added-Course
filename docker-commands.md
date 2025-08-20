@@ -82,6 +82,7 @@ docker rm <container_id>
 ```bash
 docker logs <container_id>
 ```
+<img width="692" height="177" alt="image" src="https://github.com/user-attachments/assets/fe7fc24f-82b4-4c0b-8a1a-d2247be532a8" />
 
 ```bash
 docker inspect <container_id>
