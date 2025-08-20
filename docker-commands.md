@@ -87,6 +87,7 @@ docker logs <container_id>
 ```bash
 docker inspect <container_id>
 ```
+<img width="711" height="158" alt="image" src="https://github.com/user-attachments/assets/619bb752-ae38-4002-a5c1-83d48dafab22" />
 
 ---
 
