@@ -68,6 +68,7 @@ docker stop <container_id>
 ```bash
 docker start <container_id>
 ```
+<img width="351" height="33" alt="image" src="https://github.com/user-attachments/assets/c30804b4-1244-4a8d-9453-a8043897a8f1" />
 
 ```bash
 docker rm <container_id>
