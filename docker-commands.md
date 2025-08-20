@@ -96,7 +96,8 @@ docker inspect <container_id>
 ```bash
 docker container prune
 ```
-<img width="364" height="48" alt="image" src="https://github.com/user-attachments/assets/85fb0773-c91b-4d3c-bf97-a4278f2f2afb" />
+<img width="462" height="269" alt="image" src="https://github.com/user-attachments/assets/5c99fa4e-a25c-43fa-bc80-acd62d8f82c7" />
+
 
 ```bash
 docker image prune -a
