@@ -63,6 +63,7 @@ docker ps -a
 ```bash
 docker stop <container_id>
 ```
+<img width="695" height="91" alt="image" src="https://github.com/user-attachments/assets/c629c170-6222-404d-8c57-4bd23ed02061" />
 
 ```bash
 docker start <container_id>
