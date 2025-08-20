@@ -53,10 +53,12 @@ docker run -d --name mynginx nginx
 ```bash
 docker ps
 ```
+<img width="760" height="86" alt="image" src="https://github.com/user-attachments/assets/534b6519-f2b7-4459-8096-66893c05c943" />
 
 ```bash
 docker ps -a
 ```
+<img width="899" height="138" alt="image" src="https://github.com/user-attachments/assets/c7a30ad7-2047-43a8-bba3-74a0ef1cd50c" />
 
 ```bash
 docker stop <container_id>
