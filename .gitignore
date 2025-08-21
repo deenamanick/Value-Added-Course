@@ -1,0 +1,57 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.env
+.venv/
+venv/
+env/
+ENV/
+
+# =====================
+# Flask / Local
+# =====================
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# =====================
+# Terraform
+# =====================
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# =====================
+# Vagrant
+# =====================
+.vagrant/
+
+# =====================
+# Docker
+# =====================
+*.tar
+*.pid
+*.log
+docker-compose.override.yml
+
+# =====================
+# System / Editor
+# =====================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

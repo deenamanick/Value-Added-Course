@@ -1,0 +1,26 @@
+name: CI/CD for Quiz App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Init Terraform
+        working-directory: terraform-docker
+        run: terraform init
+
+      - name: Validate Terraform
+        working-directory: terraform-docker
+        run: terraform validate
+
+      - name: Run Terraform apply
+        working-directory: terraform-docker
+        run: terraform apply -auto-approve
