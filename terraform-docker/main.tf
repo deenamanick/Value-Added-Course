@@ -43,4 +43,5 @@ resource "docker_container" "quiz_app" {
   lifecycle {
     replace_triggered_by = [docker_image.quiz_app]
   }
+  depends_on = [docker_image.quiz_app]
 }
