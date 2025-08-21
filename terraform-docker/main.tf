@@ -40,4 +40,7 @@ resource "docker_container" "quiz_app" {
     internal = 5000
     external = 5000
   }
+  lifecycle {
+    replace_triggered_by = [docker_image.quiz_app]
+  }
 }
