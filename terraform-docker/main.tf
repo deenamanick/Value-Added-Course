@@ -33,7 +33,7 @@ resource "docker_image" "quiz_app" {
   keep_locally = false
 }
 
-
+## running docker
 resource "docker_container" "quiz_app" {
   name  = "quiz_app"
   image = docker_image.quiz_app.image_id
