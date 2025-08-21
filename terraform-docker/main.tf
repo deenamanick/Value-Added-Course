@@ -30,18 +30,20 @@ resource "docker_image" "quiz_app" {
   triggers = {
     app_code = filesha256("${path.module}/../k8s-quiz/app.py")
   }
+  keep_locally = false
 }
 
 
 resource "docker_container" "quiz_app" {
   name  = "quiz_app"
   image = docker_image.quiz_app.image_id
+
   ports {
     internal = 5000
     external = 5000
   }
+
   lifecycle {
     replace_triggered_by = [docker_image.quiz_app]
   }
-  depends_on = [docker_image.quiz_app]
 }
