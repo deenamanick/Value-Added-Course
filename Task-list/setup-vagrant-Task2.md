@@ -39,11 +39,11 @@ if you dont see the version of vagrant, close gitbash window and try the same co
 ### **3. Create a Project Folder**
 
 ```bash
-mkdir vagrant_demo
+mkdir Ubuntu-Linux
 ```
 
 ```bash
-cd vagrant_demo
+cd Ubuntu-Linux
 ```
 
 <img width="601" height="391" alt="image" src="https://github.com/user-attachments/assets/593ed296-b2e2-436f-bf7b-4c5aede9c617" />
