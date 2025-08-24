@@ -39,6 +39,11 @@ To fix this, you need to:
 
  Complete the installation. If a restart is required, please reboot your computer before launching VirtualBox. This is necessary to finalize the installation of the new system drivers.
 
+---
+
+ **This is not mandatory**
+
+
 **Enable Virtualization**
 
 The specific name for the virtualization option can vary depending on the motherboard manufacturer and CPU brand, but here are the most common names you'll find in the BIOS/UEFI settings:
