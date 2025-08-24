@@ -15,6 +15,10 @@
 ### **2. Install Git Bash** (Windows Users)
 
 * Download from: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+  
+<img width="1148" height="660" alt="image" src="https://github.com/user-attachments/assets/651f2e8a-04d8-4bfd-b71a-4c3fca3a51f6" />
+
+  
 * Install it, and choose **Git Bash** from the terminal options during installation.
 * Check installation:
 
