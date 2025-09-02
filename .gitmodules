@@ -1,6 +1,0 @@
-[submodule "v-a-d-t"]
-	path = v-a-d-t
-	url = https://github.com/deenamanick/v-a-d-t.git
-[submodule "automation"]
-	path = automation
-	url = https://github.com/deenamanick/vagrant-ansible-terrafom-docker.git
