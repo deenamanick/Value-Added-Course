@@ -47,14 +47,9 @@ https://github.com/
 
 <img width="985" height="371" alt="image" src="https://github.com/user-attachments/assets/71a4c39a-8c38-40c2-98f9-24755edb4073" />
 
+Next step is 
 
-```bash
-mkdir Ubuntu-Linux
-```
-
-```bash
-cd Ubuntu-Linux
-```
+Fork this repo: 👉 https://github.com/deenamanick/vagrant-ansible-terrafom-docker.git
 
 <img width="601" height="391" alt="image" src="https://github.com/user-attachments/assets/593ed296-b2e2-436f-bf7b-4c5aede9c617" />
 
