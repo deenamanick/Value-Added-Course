@@ -26,6 +26,11 @@
 * Install it, and choose **Git Bash** from the terminal options during installation.
 * Check installation:
 
+* Uncheck version and select Git Bash
+
+* <img width="596" height="487" alt="image" src="https://github.com/user-attachments/assets/f41b48fe-80af-433e-8462-bbf1475ba330" />
+
+
 ```bash
 git --version
 ```
