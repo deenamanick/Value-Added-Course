@@ -51,7 +51,32 @@ Next step is
 
 Fork this repo: 👉 https://github.com/deenamanick/vagrant-ansible-terrafom-docker.git
 
-<img width="601" height="391" alt="image" src="https://github.com/user-attachments/assets/593ed296-b2e2-436f-bf7b-4c5aede9c617" />
+<img width="1740" height="966" alt="image" src="https://github.com/user-attachments/assets/b56f12fa-57c7-44b9-a673-3854a32bed0a" />
+
+Once the fork is done, go to your github home page, and clone the repo, copy the repo path.
+
+<img width="1558" height="955" alt="image" src="https://github.com/user-attachments/assets/459bbad4-ed76-4099-96da-efba8fc75ea8" />
+
+Open the git Bash and path clone URL, and press enter
+
+
+<img width="740" height="452" alt="image" src="https://github.com/user-attachments/assets/2e88e6db-0a6d-4016-87c2-fc2800acedc7" />
+
+if it is successfull, you should the screen as below
+
+<img width="751" height="447" alt="image" src="https://github.com/user-attachments/assets/1c51dd6a-a563-4786-8e3c-379e4bebfeb0" />
+
+run the following command in Git Bash
+
+```
+cd vagrant-ansible-terrafom-docker/
+
+```
+
+You should see this folder structure
+
+<img width="707" height="107" alt="image" src="https://github.com/user-attachments/assets/19353b39-c70e-4c06-9ee6-1888e3c4e619" />
+
 
 ---
 
