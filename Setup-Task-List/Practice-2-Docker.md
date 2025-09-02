@@ -2,6 +2,22 @@
 
 ## 🔹 **1. Docker Basics**
 
+Open git Bash from Search Window
+
+<img width="1155" height="977" alt="image" src="https://github.com/user-attachments/assets/fed9149d-1331-4d3e-89bb-a09e18243166" />
+
+Change the directory to 
+
+```
+cd vagrant-ansible-terrafom-docker
+```
+Run Vagrant Up
+
+```
+vagrant up
+
+```
+
 ```bash
 docker --version
 ```
