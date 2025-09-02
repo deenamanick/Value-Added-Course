@@ -17,6 +17,7 @@ Run Vagrant Up
 vagrant up
 
 ```
+## Check docker version
 
 ```bash
 docker --version
