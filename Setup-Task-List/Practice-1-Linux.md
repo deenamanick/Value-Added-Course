@@ -12,6 +12,9 @@
 
 Open the GitBash from search window
 
+<img width="1155" height="977" alt="image" src="https://github.com/user-attachments/assets/0e0040c7-e159-4019-9fe6-6967611d1fbd" />
+
+
 
 ---
 
