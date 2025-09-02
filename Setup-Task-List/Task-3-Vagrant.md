@@ -39,6 +39,15 @@ if you dont see the version of vagrant, close gitbash window and try the same co
 
 ### **3. Create a Project Folder**
 
+Fork the repository
+
+Login to github first. If you dont have the account, create the one by clicking on Sign up Button.
+
+https://github.com/
+
+<img width="985" height="371" alt="image" src="https://github.com/user-attachments/assets/71a4c39a-8c38-40c2-98f9-24755edb4073" />
+
+
 ```bash
 mkdir Ubuntu-Linux
 ```
