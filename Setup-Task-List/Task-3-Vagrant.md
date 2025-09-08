@@ -83,7 +83,7 @@ You should see this folder structure
 ### *4. Start the VM**
 
 ```bash
-vagrant up
+vagrant up --no-provision
 ```
 
 * Vagrant will:
