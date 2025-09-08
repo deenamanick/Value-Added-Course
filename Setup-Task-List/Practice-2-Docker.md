@@ -17,6 +17,13 @@ Run Vagrant Up
 vagrant provision --provision-with docker
 
 ```
+ssh to Vagrant
+
+```
+vagrant ssh
+
+```
+
 ## Check docker version
 
 ```bash
