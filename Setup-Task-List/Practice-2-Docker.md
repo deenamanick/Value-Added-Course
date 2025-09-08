@@ -14,7 +14,7 @@ cd vagrant-ansible-terrafom-docker
 Run Vagrant Up
 
 ```
-vagrant up
+vagrant provision --provision-with docker
 
 ```
 ## Check docker version
