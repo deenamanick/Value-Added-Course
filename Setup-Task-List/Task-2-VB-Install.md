@@ -26,7 +26,7 @@ The installer for VirtualBox 7.0.10 will likely not proceed until it detects tha
 
 To fix this, you need to:
 
-**Download** : Get the redistributable package directly from the official Microsoft website. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+**Download** : Get the redistributable package directly from the official Microsoft website. (Right Click and Open a New window ) https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 <img width="920" height="292" alt="image" src="https://github.com/user-attachments/assets/80d26155-3c34-4881-bb75-bdcc9200f0ef" />
 
