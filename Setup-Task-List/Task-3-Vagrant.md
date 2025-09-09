@@ -4,7 +4,7 @@
 
 ### **1. Install Vagrant**
 
-* Download from: [https://developer.hashicorp.com/vagrant/downloads](https://developer.hashicorp.com/vagrant/downloads)
+* Download from:  [https://developer.hashicorp.com/vagrant/downloads](https://developer.hashicorp.com/vagrant/downloads)
 * select windows and click based on processor type you have.
  For **AMD** choose - **AMD64**  ---
  For **Intel** choose - **I686**
