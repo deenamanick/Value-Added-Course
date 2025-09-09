@@ -3,7 +3,7 @@
 
 ### **1. Download and Install VirtualBox**
 
-* Go to: https://download.virtualbox.org/virtualbox/7.1.0/
+* Go to: (right click  and open a new windows ) https://download.virtualbox.org/virtualbox/7.1.0/
 * Choose your operating system (Windows, macOS, or Linux).
 * Download and install VirtualBox using the installer.
 
