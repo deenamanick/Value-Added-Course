@@ -87,3 +87,15 @@ docker ps -a
 ```
 <img width="899" height="138" alt="image" src="https://github.com/user-attachments/assets/c7a30ad7-2047-43a8-bba3-74a0ef1cd50c" />
 
+
+----
+
+🎓 Optional Challenge for Students
+
+1. Create 3 Containers
+2. List All Containers
+3. Display logs from each container
+4. Delete only the second Container
+
+
+
