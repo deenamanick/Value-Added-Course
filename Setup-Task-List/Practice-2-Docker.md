@@ -92,7 +92,7 @@ docker ps -a
 
 🎓 Optional Challenge for Students
 
-1. Create 3 Containers
+1. Create 3 Containers using alpine image
 2. List All Containers
 3. Display logs from each container
 4. Delete only the second Container
