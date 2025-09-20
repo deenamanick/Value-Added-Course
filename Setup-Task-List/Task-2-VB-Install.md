@@ -43,7 +43,12 @@ To fix this, you need to:
 
 ---
 
- **This is not mandatory**
+
+> **⚠️ Optional — This section is NOT mandatory**
+>
+> Follow this only if VirtualBox/Vagrant does NOT work on your machine.
+>
+> (Visual cue: this block highlights that the following notes are optional.)
 
 
 **Enable Virtualization**
