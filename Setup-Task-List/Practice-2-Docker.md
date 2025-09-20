@@ -187,25 +187,5 @@ docker history sample-image
 ```
 - Expected: student identifies error from logs, updates Dockerfile, and gets container running.
 
----
-
-# go to repository (adjust path if needed)
-cd /home/deena/Value-Added-Course
-
-# check branch and status
-git branch --show-current
-git status --porcelain
-
-# stage the changed file(s)
-git add Setup-Task-List/Practice-2-Docker.md
-
-# commit with a clear message
-git commit -m "Add additional tasks and challenge tasks to Practice-2-Docker.md"
-
-# update local branch with remote changes before pushing
-git pull --rebase origin $(git rev-parse --abbrev-ref HEAD)
-
-# push to remote (use -u if this is a new branch)
-git push origin $(git rev-parse --abbrev-ref HEAD)
 
 
