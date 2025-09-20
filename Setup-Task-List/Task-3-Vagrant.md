@@ -52,18 +52,28 @@ Fork this repo: 👉 https://github.com/deenamanick/vagrant-ansible-terrafom-doc
 
 <img width="1740" height="966" alt="image" src="https://github.com/user-attachments/assets/b56f12fa-57c7-44b9-a673-3854a32bed0a" />
 
-Once the fork is done, go to your github home page, and clone the repo, copy the repo path.
 
-<img width="1558" height="955" alt="image" src="https://github.com/user-attachments/assets/459bbad4-ed76-4099-96da-efba8fc75ea8" />
+> **⚠️ Once the fork is done, go to your github home page**, and clone the repo, copy the repo path.
+>
+> 
+
+<img width="1027" height="638" alt="image" src="https://github.com/user-attachments/assets/3f8e1da9-41a7-4a9e-8bbe-f33ab0e93aa1" />
+
 
 Open the git Bash and path clone URL, and press enter
 
+> **⚠️ Clone your Repo**.
+>
+> 
 
-<img width="740" height="452" alt="image" src="https://github.com/user-attachments/assets/2e88e6db-0a6d-4016-87c2-fc2800acedc7" />
+
+<img width="717" height="379" alt="image" src="https://github.com/user-attachments/assets/39a9fc83-1c14-4a11-bda9-b3646a4f314a" />
+
 
 if it is successfull, you should the screen as below
 
-<img width="751" height="447" alt="image" src="https://github.com/user-attachments/assets/1c51dd6a-a563-4786-8e3c-379e4bebfeb0" />
+<img width="745" height="338" alt="image" src="https://github.com/user-attachments/assets/f1c935df-311b-46b5-ab62-9b70ce2c0cf9" />
+
 
 run the following command in Git Bash
 
