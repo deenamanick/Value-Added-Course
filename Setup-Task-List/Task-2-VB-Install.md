@@ -28,7 +28,8 @@ To fix this, you need to:
 
 **Download** : Get the redistributable package directly from the official Microsoft website. (Right Click and Open a New window ) https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-<img width="980" height="494" alt="image" src="https://github.com/user-attachments/assets/d501d716-8624-4587-b961-107e5a71a0a0" />
+<img width="963" height="481" alt="image" src="https://github.com/user-attachments/assets/06d075d9-b019-4bd0-98e9-40e1c46d7552" />
+
 
 
 
