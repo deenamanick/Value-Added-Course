@@ -7,7 +7,6 @@
 * Download from: (Right click and Open a new window) [https://developer.hashicorp.com/vagrant/downloads](https://developer.hashicorp.com/vagrant/downloads)
 * select windows and click based on processor type you have.
  For **AMD** choose - **AMD64**  ---
- For **Intel** choose - **I686**
 
 * <img width="598" height="200" alt="image" src="https://github.com/user-attachments/assets/2d958be5-14ad-4355-b0a0-e96c9dbd3265" />
 
