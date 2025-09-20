@@ -1,5 +1,3 @@
-
-
 ## 🔹 **1. Docker Basics**
 
 Open git Bash from Search Window
@@ -87,15 +85,127 @@ docker ps -a
 ```
 <img width="899" height="138" alt="image" src="https://github.com/user-attachments/assets/c7a30ad7-2047-43a8-bba3-74a0ef1cd50c" />
 
+--
 
-----
+### ➕ Additional Tasks (Easy, hands-on)
 
-🎓 Optional Challenge for Students
+1) Inspect a container  
+- Goal: see how Docker describes a running container.  
+```bash
+docker ps            # get CONTAINER ID
+docker inspect <CONTAINER_ID>
+```
+- Expected: JSON output with network, mounts, and config. Time: 3 min
 
-1. Create 3 Containers using alpine image
-2. List All Containers
-3. Display logs from each container
-4. Delete only the second Container
+2) Stop, start, and remove a container  
+- Goal: practice lifecycle commands.  
+```bash
+docker stop mynginx
+docker start mynginx
+docker rm -f mynginx
+```
+- Expected: container stops, restarts, then removed. Time: 4 min
 
+3) Expose a container port and test with curl  
+- Goal: run nginx on host port and verify HTTP response.  
+```bash
+docker run -d --name web -p 8080:80 nginx
+curl -I http://localhost:8080
+```
+- Expected: HTTP 200/302 headers returned. Time: 5 min
+
+4) Use a bind mount to edit files from host  
+- Goal: mount a host folder into a container for live edits.  
+```bash
+mkdir -p ~/docker-demo/www
+echo "Hello from host" > ~/docker-demo/www/index.html
+docker run -d --name web-dev -p 8081:80 -v ~/docker-demo/www:/usr/share/nginx/html:ro nginx
+# open http://localhost:8081
+```
+- Expected: page served from host file. Time: 8 min
+
+5) Build a simple image from a Dockerfile  
+- Goal: learn Dockerfile -> build -> run.  
+```bash
+cat > ./Dockerfile <<'EOF'
+FROM python:3.11-slim
+WORKDIR /app
+COPY . .
+CMD ["python","-m","http.server","5000"]
+EOF
+docker build -t student-http .
+docker run -d -p 5000:5000 student-http
+```
+- Expected: simple HTTP server reachable at localhost:5000. Time: 12–15 min
+
+---
+
+### 🎯 Challenge Tasks (Apply what you learned)
+
+Challenge A — Compose a web + Redis stack (15–25 min)  
+- Goal: use docker-compose to run two services together.  
+- Task: create docker-compose.yml to run nginx (or simple web app) and redis, then start and check both services.  
+- Example:
+```yaml
+version: '3.8'
+services:
+  web:
+    image: nginx
+    ports: ["8080:80"]
+  redis:
+    image: redis:alpine
+```
+- Commands:
+```bash
+docker-compose up -d
+docker-compose ps
+docker-compose logs web
+```
+- Expected: both services running and reachable. Hint: use docker-compose down to stop.
+
+Challenge B — Build, tag, and run a custom image (20–30 min)  
+- Goal: create a tiny app image, tag it, and run with a volume.  
+- Task: write a Dockerfile for a static site or small Python app, build it, tag as local: student-app, and run with mounted config.  
+- Hints:
+```bash
+docker build -t student-app .
+docker tag student-app student-app:lab1
+docker run -d --name student-app -p 9000:5000 student-app
+```
+- Expected: app serves content; inspect with docker logs and docker exec.
+
+Challenge C — Troubleshoot & fix a broken image (20–30 min)  
+- Goal: use logs, inspect, and history to find and fix an image that fails to start.  
+- Task: run a deliberately broken container (wrong CMD), inspect logs, fix Dockerfile, rebuild, and confirm it runs.  
+- Hints:
+```bash
+docker run --name broken sample-image
+docker logs broken
+docker inspect broken
+docker history sample-image
+# edit Dockerfile, rebuild, retest
+```
+- Expected: student identifies error from logs, updates Dockerfile, and gets container running.
+
+---
+
+# go to repository (adjust path if needed)
+cd /home/deena/Value-Added-Course
+
+# check branch and status
+git branch --show-current
+git status --porcelain
+
+# stage the changed file(s)
+git add Setup-Task-List/Practice-2-Docker.md
+
+# commit with a clear message
+git commit -m "Add additional tasks and challenge tasks to Practice-2-Docker.md"
+
+# update local branch with remote changes before pushing
+git pull --rebase origin $(git rev-parse --abbrev-ref HEAD)
+
+# push to remote (use -u if this is a new branch)
+git push origin $(git rev-parse --abbrev-ref HEAD)
 
 
