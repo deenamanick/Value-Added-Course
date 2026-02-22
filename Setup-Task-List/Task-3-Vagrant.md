@@ -48,7 +48,12 @@ https://github.com/
 
 Next step is 
 
-Fork this repo: 👉 https://github.com/deenamanick/vagrant-ansible-terrafom-docker.git
+Scan this QR Code
+
+<img width="534" height="477" alt="image" src="https://github.com/user-attachments/assets/555b2699-76b9-461a-b81a-2626fa326c1d" />
+
+
+
 
 <img width="1740" height="966" alt="image" src="https://github.com/user-attachments/assets/b56f12fa-57c7-44b9-a673-3854a32bed0a" />
 
