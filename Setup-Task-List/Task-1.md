@@ -9,11 +9,6 @@
 
   <img width="1188" height="683" alt="image" src="https://github.com/user-attachments/assets/5831f17b-3ce7-40eb-9234-3131df765b01" />
 
-  Install **WSL** extension
-
-  <img width="774" height="444" alt="image" src="https://github.com/user-attachments/assets/06ca0aeb-4527-4a02-b86a-05be19959196" />
-
-
 
 ---
 
