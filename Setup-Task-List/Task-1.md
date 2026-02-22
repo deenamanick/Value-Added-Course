@@ -40,31 +40,10 @@ git --version
 ---
 
 
-# 🐧 How to Install WSL on Windows (for Students)
 
-### ✅ Step 1: Check Windows Version
 
-* WSL requires **Windows 10 (Version 2004, Build 19041 or higher)** or **Windows 11**.
-* To check:
 
-  1. Press **Windows + R**, type `winver`, press Enter.
-  2. If the version is too old, update Windows before continuing.
 
----
-
-### ✅ Step 2: Open PowerShell as Administrator
-
-* Right-click the **Start menu** → choose **Windows PowerShell (Admin)** or **Terminal (Admin)**.
-
----
-
-### ✅ Step 3: Install WSL in One Command
-
-Run this command:
-
-```powershell
-wsl --install -d Ubuntu
-```
 
 <img width="734" height="421" alt="image" src="https://github.com/user-attachments/assets/a32595c0-1c3a-4d79-a09c-6cf5c0cbdc19" />
 
