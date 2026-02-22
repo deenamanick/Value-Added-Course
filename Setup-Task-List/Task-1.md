@@ -39,11 +39,6 @@ git --version
 
 ---
 
-### **3. Install WSL on Windows** 
-
-Here’s a **simple step-by-step guide** you can hand over to your students to install and use **WSL (Windows Subsystem for Linux)** on their Windows laptops. This will let them run Linux natively inside Windows, avoiding the `^M` (CRLF) issues.
-
----
 
 # 🐧 How to Install WSL on Windows (for Students)
 
