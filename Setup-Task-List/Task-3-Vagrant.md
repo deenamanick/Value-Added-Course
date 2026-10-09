@@ -48,9 +48,9 @@ https://github.com/
 
 Next step is 
 
-Scan this QR Code
+Fork this repo
 
-<img width="534" height="477" alt="image" src="https://github.com/user-attachments/assets/555b2699-76b9-461a-b81a-2626fa326c1d" />
+https://github.com/deenamanick/Value-Added-Course/
 
 
 
