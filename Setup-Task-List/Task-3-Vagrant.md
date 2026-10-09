@@ -50,8 +50,7 @@ Next step is
 
 Fork this repo
 
-https://github.com/deenamanick/Value-Added-Course/
-
+https://github.com/deenamanick/vagrant-ansible-terrafom-docker
 
 
 
